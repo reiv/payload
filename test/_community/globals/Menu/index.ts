@@ -4,6 +4,7 @@ export const menuSlug = 'menu';
 
 export const MenuGlobal: GlobalConfig = {
   slug: menuSlug,
+  label: 'Where are my eyes? Ö',
   fields: [
     {
       name: 'globalText',
